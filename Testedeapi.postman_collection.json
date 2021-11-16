@@ -3,7 +3,7 @@
 		"_postman_id": "d4bd6cd6-51c5-44df-95d3-51d3f6f120e4",
 		"name": "Testedeapi",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
-	},
+	}, 
 	"item": [
 		{
 			"name": "GET",
